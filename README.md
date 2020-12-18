@@ -1,16 +1,7 @@
-# flutter_app1
+# World Time App
 
-A new Flutter application.
+A Flutter application which gives the time of few countries from the worldtime api
 
-## Getting Started
+#### things todo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+get more countries data from existing api and the flag data from flag api 
